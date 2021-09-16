@@ -21,6 +21,6 @@ For more information, please click [here](https://www.makeuseof.com/tag/mac-term
 ### GNU Affero General Public License
 
 
-Please click [here](https://github.com/AliceM80/Versioning1/blob/main/LICENSE.txt
+Please click [here](https://github.com/AliceM80/Versioning1/blob/main/LICENSE.txt)
 
-Good Bye
+
