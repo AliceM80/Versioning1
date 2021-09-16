@@ -22,3 +22,5 @@ For more information, please click [here](https://www.makeuseof.com/tag/mac-term
 
 
 Please click [here](https://github.com/AliceM80/Versioning1/blob/main/LICENSE.txt
+
+Good Bye
