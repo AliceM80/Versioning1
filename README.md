@@ -16,3 +16,9 @@ If you would like to use a Task List
 
 For more information, please click [here](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
 
+## LLicense
+
+### GNU Affero General Public License
+
+Please click LICENSE.txt
+
