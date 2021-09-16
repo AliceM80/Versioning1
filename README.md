@@ -14,5 +14,5 @@ If you would like to use a Task List
 - [ ] create an account at GitHub
 - [ ] add a new rep
 
-For more information click [here] (https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
+For more information, please click [here](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
 
